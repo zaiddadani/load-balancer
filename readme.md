@@ -28,7 +28,6 @@ https://codingchallenges.fyi/challenges/challenge-load-balancer/
 by
 https://twitter.com/johncrickett
 
-Since a few years I am in C# but I wanted to try out java for this challenge.
 
 # Technologies and Libraries
 
